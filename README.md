@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marshall Alexander</h1>
 <h3 align="center">A passionate Computer Engineering student from Minnesota</h3>
 
-- 🔭 I’m currently working on **My first game**
+- 🔭 I’m currently working on **my first game**
 
 - 🌱 I’m currently studying **Computer Engineering**
 
