@@ -1,20 +1,14 @@
-<h1 align="center">Hi 👋, I'm Marshall Alexander</h1>
-<h3 align="center">A passionate Computer Engineering student from Minnesota</h3>
+# 💫 About Me:
+I'm a computer engineering student at Iowa State University, planning to focus on embedded systems.
 
-- 🔭 I’m currently working on **my first game**
 
-- 🌱 I’m currently studying **Computer Engineering**
+## LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marshfalex) 
 
-- 👨‍💻 All of my projects are available at [TODO](TODO)
+# Current Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- 📫 How to reach me **marshfalex@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=marshfalex&icon=1&color=8)](https://visitcount.itsvg.in)
 
-- 📄 Know about my experiences [TODO](TODO)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marshfalex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marshfalex" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
