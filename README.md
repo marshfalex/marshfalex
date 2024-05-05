@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a computer engineering student at Iowa State University, planning to focus on embedded systems.
 
 
