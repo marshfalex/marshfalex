@@ -1,5 +1,5 @@
 # About Me:
-I'm a computer engineering student at Iowa State University.
+I'm a computer engineering student at Iowa State University with the pursuit of expanding and improving my coding and hardware skills.
 
 I upload many of my class projects and personal projects to my GitHub. Class projects usually have the course name in the description of the repository.
 
