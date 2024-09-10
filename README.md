@@ -1,7 +1,7 @@
 # About Me:
-I'm a computer engineering student at Iowa State University, planning to focus on embedded systems.
+I'm a computer engineering student at Iowa State University.
 
-I upload many of my class projects to my github and personal projects. Class projects usually have the course name in the description of the repository.
+I upload many of my class projects and personal projects to my GitHub. Class projects usually have the course name in the description of the repository.
 
 ## LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marshfalex) 
